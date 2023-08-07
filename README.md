@@ -1,1 +1,13 @@
 # Financial Reports Summarizer
+This application summarizes a company's financial reports and/or earning conference calls using LLMs.
+
+## Backend
+The backend framework of this application includes:
+- LangChain
+- OpenAI GPT models
+- ...
+
+## Frontend
+The frontend framework of this application is Streamlit
+
+## To use the application
