@@ -1,5 +1,5 @@
 # Financial Reports Summarizer
-This application summarizes a company's financial reports and/or earning conference calls using LLMs.
+This application summarizes a company's financial reports using LLMs.
 
 ## Backend
 The backend framework of this application includes:
