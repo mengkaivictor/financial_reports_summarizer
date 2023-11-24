@@ -9,5 +9,3 @@ The backend framework of this application includes:
 
 ## Frontend
 The frontend framework of this application is Streamlit
-
-## To use the application
